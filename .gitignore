@@ -1,0 +1,25 @@
+**/target/
+.idea
+*.iml
+*.class
+*Test.java
+**/test/
+
+### VS Code ###
+.vscode/
+
+### Files ###
+*.log
+*.orig
+*.rej
+*.swp
+*~
+*.class
+*.pyc
+*.pyo
+*.rbc
+*.rbc.gz
+*.rej
+*.rej.gz
+*.tmp*
+data/
